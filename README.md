@@ -18,3 +18,7 @@ The **Visitor Pattern** allows you to add new operations to existing class hiera
 | Concrete Visitor (Data) | `TelcoAllowance` |
 | Concrete Visitor (Calls) | `UnliCallTextPackage` |
 | Client | `TelcoPromo` |
+
+## Class Diagram
+![Library System Screenshot](VisitorPatternClassDiagram.png)
+
